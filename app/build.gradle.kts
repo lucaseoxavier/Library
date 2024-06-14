@@ -80,4 +80,7 @@ dependencies {
     implementation(libs.hilt.android.v244)
     kapt(libs.hilt.android.compiler)
     implementation(libs.androidx.hilt.navigation.fragment)
+
+    // Coil
+    implementation(libs.coil.compose)
 }
